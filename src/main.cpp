@@ -28,8 +28,6 @@
 /* 1. Define the WiFi credentials */
 #define WIFI_SSID "CORELEC_RD"
 #define WIFI_PASSWORD "corelecR&D"
-//#define WIFI_SSID "Samsung Galaxy S21 FE"
-//#define WIFI_PASSWORD "Pianoball"
 
 //UID
 #define UID "SMCD9c0k4hNr8xO1zfILn0KGOU42" //UID spécifique d'un utilisateur
